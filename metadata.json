@@ -1,0 +1,5 @@
+{
+  "name": "Commission Tracker",
+  "description": "A comprehensive dashboard for freelancers to track invoices, calculate commissions, and manage payments with AI-powered invoice extraction.",
+  "requestFramePermissions": []
+}
